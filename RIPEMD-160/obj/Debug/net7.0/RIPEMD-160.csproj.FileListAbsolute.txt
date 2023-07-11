@@ -1,0 +1,24 @@
+C:\Users\User\source\repos\AlmostRIPEMD\RIPEMD-160\bin\Debug\net7.0\RIPEMD-160.deps.json
+C:\Users\User\source\repos\AlmostRIPEMD\RIPEMD-160\bin\Debug\net7.0\RIPEMD-160.dll
+C:\Users\User\source\repos\AlmostRIPEMD\RIPEMD-160\bin\Debug\net7.0\RIPEMD-160.pdb
+C:\Users\User\source\repos\AlmostRIPEMD\RIPEMD-160\obj\Debug\net7.0\RIPEMD-160.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AlmostRIPEMD\RIPEMD-160\obj\Debug\net7.0\RIPEMD-160.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AlmostRIPEMD\RIPEMD-160\obj\Debug\net7.0\RIPEMD-160.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AlmostRIPEMD\RIPEMD-160\obj\Debug\net7.0\RIPEMD-160.AssemblyInfo.cs
+C:\Users\User\source\repos\AlmostRIPEMD\RIPEMD-160\obj\Debug\net7.0\RIPEMD-160.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AlmostRIPEMD\RIPEMD-160\obj\Debug\net7.0\RIPEMD-160.dll
+C:\Users\User\source\repos\AlmostRIPEMD\RIPEMD-160\obj\Debug\net7.0\refint\RIPEMD-160.dll
+C:\Users\User\source\repos\AlmostRIPEMD\RIPEMD-160\obj\Debug\net7.0\RIPEMD-160.pdb
+C:\Users\User\source\repos\AlmostRIPEMD\RIPEMD-160\obj\Debug\net7.0\ref\RIPEMD-160.dll
+C:\Users\User\source\repos\AlmostRIPEMD\Almost Rimped-160 (hash algorithm)\RIPEMD-160\bin\Debug\net7.0\RIPEMD-160.deps.json
+C:\Users\User\source\repos\AlmostRIPEMD\Almost Rimped-160 (hash algorithm)\RIPEMD-160\bin\Debug\net7.0\RIPEMD-160.dll
+C:\Users\User\source\repos\AlmostRIPEMD\Almost Rimped-160 (hash algorithm)\RIPEMD-160\bin\Debug\net7.0\RIPEMD-160.pdb
+C:\Users\User\source\repos\AlmostRIPEMD\Almost Rimped-160 (hash algorithm)\RIPEMD-160\obj\Debug\net7.0\RIPEMD-160.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AlmostRIPEMD\Almost Rimped-160 (hash algorithm)\RIPEMD-160\obj\Debug\net7.0\RIPEMD-160.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AlmostRIPEMD\Almost Rimped-160 (hash algorithm)\RIPEMD-160\obj\Debug\net7.0\RIPEMD-160.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AlmostRIPEMD\Almost Rimped-160 (hash algorithm)\RIPEMD-160\obj\Debug\net7.0\RIPEMD-160.AssemblyInfo.cs
+C:\Users\User\source\repos\AlmostRIPEMD\Almost Rimped-160 (hash algorithm)\RIPEMD-160\obj\Debug\net7.0\RIPEMD-160.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AlmostRIPEMD\Almost Rimped-160 (hash algorithm)\RIPEMD-160\obj\Debug\net7.0\RIPEMD-160.dll
+C:\Users\User\source\repos\AlmostRIPEMD\Almost Rimped-160 (hash algorithm)\RIPEMD-160\obj\Debug\net7.0\refint\RIPEMD-160.dll
+C:\Users\User\source\repos\AlmostRIPEMD\Almost Rimped-160 (hash algorithm)\RIPEMD-160\obj\Debug\net7.0\RIPEMD-160.pdb
+C:\Users\User\source\repos\AlmostRIPEMD\Almost Rimped-160 (hash algorithm)\RIPEMD-160\obj\Debug\net7.0\ref\RIPEMD-160.dll
